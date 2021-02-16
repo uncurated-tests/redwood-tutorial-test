@@ -1,3 +1,4 @@
 {
-  "builds": [{ "src": "package.json", "use": "https://files-2gr8854rr.vercel.app" }]
+  "builds": [{ "src": "package.json", "use": "https://files-2gr8854rr.vercel.app" }],
+  "build": { "env": { "VERCEL_DEBUG": "1" }}
 }
