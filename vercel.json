@@ -1,4 +1,3 @@
 {
-  "builds": [{ "src": "package.json", "use": "https://files-nzd8pgeqt.vercel.app" }],
   "build": { "env": { "VERCEL_DEBUG": "1" }}
 }
