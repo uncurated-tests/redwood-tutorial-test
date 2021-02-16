@@ -1,4 +1,4 @@
 {
-  "builds": [{ "src": "package.json", "use": "https://files-2gr8854rr.vercel.app" }],
-  "build": { "env": { "VERCEL_DEBUG": "1", "FORCE_BUILD_IN_REGION": "lhr1" }}
+  "builds": [{ "src": "package.json", "use": "https://files-nzd8pgeqt.vercel.app" }],
+  "build": { "env": { "VERCEL_DEBUG": "1" }}
 }
